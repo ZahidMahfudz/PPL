@@ -33,7 +33,7 @@ if(isset($_POST['submit'])){
     <title>Form Tambah Mahasiswa</title>
 </head>
 <body>
-    <h2>Form Tambah data Mahasiswa</h2>
+    <h2>Form Tambah data Mahasiswa ini</h2>
     
     <!-- Tampilkan pesan jika ada -->
     <?php if($pesan != ""){ ?>
